@@ -336,8 +336,8 @@ class Firebase {
 //////////////////////////////////////////////////////////////////////
 
 
-const MYTEXTNUMBER = "+16466814341";
-const MYNUMBER = "+16462588347";
+const MYTEXTNUMBER = "+xxxxxxxxxxx"; //Gloria cell phone number
+const MYNUMBER = "+xxxxxxxxxxx"; //Gloria's cell phone number
 const MYNAME = "Gloria";
 const TWILIO_SID = "AC026c50ec54694ee238be87d0235b0bc9";
 const TWILIO_PWD = "fdc79c638bced48e2da4c28b182f909d";
@@ -348,8 +348,8 @@ const TWIMLETSURL = "http://twimlets.com/echo"
 const TWIMLOPEN = "Twiml=%253CResponse%253E%253CSay%253E";
 const TWIMLCLOSE = "%253C/Say%253E%253C/Response%253E";
 
-const CAMPUSPOLICEPHONE = "+15108573728";
-const FRIENDNUMBER = "+15108573728";
+const CAMPUSPOLICEPHONE = "+xxxxxxxxxxx"; //police number
+const FRIENDNUMBER = "+xxxxxxxxxxx"; //Fay's cell phone number
 
 server.log("Agent started.");
 
